@@ -1,0 +1,73 @@
+[31-May-24 14:25:37 - WARNING] - bot - Peer id invalid: -1002215071944
+[31-May-24 14:25:37 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002215071944
+[31-May-24 14:25:37 - INFO] - bot - 
+Bot Stopped. Joinhttps://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:31:25 - WARNING] - bot - Peer id invalid: -1002215071944
+[31-May-24 14:31:25 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002215071944
+[31-May-24 14:31:25 - INFO] - bot - 
+Bot Stopped. Joinhttps://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:33:45 - WARNING] - bot - Peer id invalid: -1002215071944
+[31-May-24 14:33:45 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002215071944
+[31-May-24 14:33:45 - INFO] - bot - 
+Bot Stopped. Joinhttps://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:39:59 - WARNING] - bot - Peer id invalid: -1002215071944
+[31-May-24 14:39:59 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002215071944
+[31-May-24 14:39:59 - INFO] - bot - 
+Bot Stopped. Joinhttps://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:42:42 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 14:42:42 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 14:42:42 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:44:36 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 665994fc713765f24e538b5e, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-bqseanb-shard-00-00.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-bqseanb-shard-00-01.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-bqseanb-shard-00-02.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "665994fc713765f24e538b5e"}, "remainingTimeMS": 29}
+[31-May-24 14:44:37 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 14:44:37 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 14:44:37 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 14:45:22 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 14:45:22 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 14:45:22 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:01:34 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 665998f64bb9f3b0e841b93b, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-bqseanb-shard-00-00.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-bqseanb-shard-00-01.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-bqseanb-shard-00-02.ufwidpg.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "665998f64bb9f3b0e841b93b"}, "remainingTimeMS": 29}
+[31-May-24 15:01:35 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:01:35 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:01:35 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:12:40 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 66599b90371798917efe51a2, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z6x6oge-shard-00-00.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-01.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-02.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "66599b90371798917efe51a2"}, "remainingTimeMS": 29}
+[31-May-24 15:12:41 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:12:41 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:12:41 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:13:01 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:13:01 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:13:01 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:13:24 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:13:24 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:13:24 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:29:05 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:29:05 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:29:05 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:29:30 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:29:30 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:29:30 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:30:04 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 66599fa4c7ca96261d95fc4c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z6x6oge-shard-00-00.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-01.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-02.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "66599fa4c7ca96261d95fc4c"}, "remainingTimeMS": 29}
+[31-May-24 15:30:05 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:30:05 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:30:05 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:31:20 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:31:20 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:31:20 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:31:44 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:31:44 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:31:44 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
+[31-May-24 15:32:07 - INFO] - pymongo.serverSelection - {"message": "Waiting for suitable server to become available", "selector": "Primary()", "operation": "find", "topologyDescription": "<TopologyDescription id: 6659a01f821bb392fdd9a5df, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-z6x6oge-shard-00-00.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-01.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>, <ServerDescription ('ac-z6x6oge-shard-00-02.mkodu2a.mongodb.net', 27017) server_type: Unknown, rtt: None>]>", "clientId": {"$oid": "6659a01f821bb392fdd9a5df"}, "remainingTimeMS": 29}
+[31-May-24 15:32:08 - WARNING] - bot - Peer id invalid: -1002206527504
+[31-May-24 15:32:08 - WARNING] - bot - Make Sure bot is Admin in DB Channel, and Double check the CHANNEL_ID Value, Current Value -1002206527504
+[31-May-24 15:32:08 - INFO] - bot - 
+Bot Stopped. Join https://t.me/+71jYXr28WCU4MzM1 for support
