@@ -23,3 +23,10 @@ A Powerful Music Bot For Telegram Users
 </h3>
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/UNEMPLOID/filecarry"> <img src="https://graph.org/file/cb9394eec3d0ebce858f9.jpg" width="620" height="198.45"/></a></p>
+
+#### Deploy on Koyeb
+
+The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
+
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Unemploid/Filecarry&branch=koyeb&name=filesharingbot)
