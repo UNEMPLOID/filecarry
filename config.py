@@ -1,4 +1,4 @@
-#(©)CodeXBotz
+#FILECARRY
 
 
 
@@ -13,26 +13,26 @@ from logging.handlers import RotatingFileHandler
 TG_BOT_TOKEN = os.environ.get("7288227872:AAELu6rrPTgkQpsmYbgO9KlWEorISSVKXq8", "")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("API_ID", "26614080"))
+APP_ID = int(os.environ.get("APP_ID", "26614080"))
 
 #Your API Hash from my.telegram.org
 API_HASH = os.environ.get("7d2c9a5628814e1430b30a1f0dc0165b", "")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("-1002163667002", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002163667002"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("5606990991", "5460343986"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5606990991" "5460343986"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
 
-#Database 
+#Database
 DB_URI = os.environ.get("mongodb+srv://mrsudoxspam:mrsudoxspam@cluster0.ufwidpg.mongodb.net/?retryWrites=true&=true&w=majority", "")
 DB_NAME = os.environ.get("DATABASE_NAME", "Free_Hollywood_MoviesRoBot")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("-1001902665212", ""))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB", "-1001902665212"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -45,7 +45,7 @@ try:
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
 
-#Force sub message 
+#Force sub message
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
